@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHdzjBxMEps=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabid\\PicoGKProjekte\\minimal_CEM\\minimal_CEM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabid\\.nuget\\packages\\picogk\\2.3.0\\picogk.2.3.0.nupkg.sha512",
+    "C:\\Users\\fabid\\.nuget\\packages\\skiasharp\\3.119.0\\skiasharp.3.119.0.nupkg.sha512",
+    "C:\\Users\\fabid\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.0\\skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
+    "C:\\Users\\fabid\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.0\\skiasharp.nativeassets.win32.3.119.0.nupkg.sha512"
+  ],
+  "logs": []
+}
